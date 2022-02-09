@@ -19,3 +19,6 @@ C:\Users\lmccormick\Desktop\C#Playground\BuildingFirstAPIwithASP.NETCore\WebAppl
 C:\Users\lmccormick\Desktop\C#Playground\BuildingFirstAPIwithASP.NETCore\WebApplicationASP.NETCoreWebAPI\WebApplicationASP.NETCoreWebAPI\obj\Debug\netcoreapp3.1\WebApplicationASP.NETCoreWebAPI.dll
 C:\Users\lmccormick\Desktop\C#Playground\BuildingFirstAPIwithASP.NETCore\WebApplicationASP.NETCoreWebAPI\WebApplicationASP.NETCoreWebAPI\obj\Debug\netcoreapp3.1\WebApplicationASP.NETCoreWebAPI.pdb
 C:\Users\lmccormick\Desktop\C#Playground\BuildingFirstAPIwithASP.NETCore\WebApplicationASP.NETCoreWebAPI\WebApplicationASP.NETCoreWebAPI\obj\Debug\netcoreapp3.1\WebApplicationASP.NETCoreWebAPI.genruntimeconfig.cache
+C:\Users\lmccormick\Desktop\C#Playground\BuildingFirstAPIwithASP.NETCore\WebApplicationASP.NETCoreWebAPI\WebApplicationASP.NETCoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\lmccormick\Desktop\C#Playground\BuildingFirstAPIwithASP.NETCore\WebApplicationASP.NETCoreWebAPI\WebApplicationASP.NETCoreWebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lmccormick\Desktop\C#Playground\BuildingFirstAPIwithASP.NETCore\WebApplicationASP.NETCoreWebAPI\WebApplicationASP.NETCoreWebAPI\obj\Debug\netcoreapp3.1\WebApplicationASP.NETCoreWebAPI.csproj.CopyComplete

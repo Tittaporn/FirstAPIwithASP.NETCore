@@ -40,8 +40,7 @@ namespace WebApplicationASP.NETCoreWebAPI
             {
                 app.UseExceptionHandler();
             }
-            app.UseHttpsRedirection();
-            /*   app.UseMvc();
+            /*   app.UseMvc();*/
                app.UseHttpsRedirection();
 
                app.UseRouting();
@@ -51,7 +50,7 @@ namespace WebApplicationASP.NETCoreWebAPI
                app.UseEndpoints(endpoints =>
                {
                    endpoints.MapControllers();
-               });*/
+               });
         }
     }
 }
