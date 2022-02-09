@@ -10,6 +10,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using WebApplicationASP.NETCoreWebAPI.Services;
 
 namespace WebApplicationASP.NETCoreWebAPI
 {
@@ -27,6 +28,11 @@ namespace WebApplicationASP.NETCoreWebAPI
         {
             services.AddControllers();
             services.AddMvc();
+#if DEBUG
+            services.AddTransient<IMailService, LocalMailService>();
+#else
+            services.AddTransient<IMailService, CloudMailService>();
+#endif
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -41,16 +47,16 @@ namespace WebApplicationASP.NETCoreWebAPI
                 app.UseExceptionHandler();
             }
             /*   app.UseMvc();*/
-               app.UseHttpsRedirection();
+            app.UseHttpsRedirection();
 
-               app.UseRouting();
+            app.UseRouting();
 
-               app.UseAuthorization();
+            app.UseAuthorization();
 
-               app.UseEndpoints(endpoints =>
-               {
-                   endpoints.MapControllers();
-               });
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapControllers();
+            });
         }
     }
 }

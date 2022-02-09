@@ -1,0 +1,77 @@
+2022-02-09 14:21:59.0381|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2022-02-09 14:21:59.0707|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect.
+2022-02-09 14:21:59.0829|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2022-02-09 14:21:59.0940|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\lmccormick\Desktop\C#Playground\BuildingFirstAPIwithASP.NETCore\WebApplicationASP.NETCoreWebAPI\WebApplicationASP.NETCoreWebAPI
+2022-02-09 14:22:04.2343|INFO|WebApplicationASP.NETCoreWebAPI.Controllers.PointsOfInterestController|City with id 5 wasn't found when accessing points of interest.
+2022-02-09 14:22:10.2715|INFO|WebApplicationASP.NETCoreWebAPI.Controllers.PointsOfInterestController|City with id 5 wasn't found when accessing points of interest.
+2022-02-09 14:22:11.3353|INFO|WebApplicationASP.NETCoreWebAPI.Controllers.PointsOfInterestController|City with id 5 wasn't found when accessing points of interest.
+2022-02-09 14:22:37.0789|INFO|WebApplicationASP.NETCoreWebAPI.Controllers.PointsOfInterestController|City with id 5 wasn't found when accessing points of interest.
+2022-02-09 14:22:38.5215|INFO|WebApplicationASP.NETCoreWebAPI.Controllers.PointsOfInterestController|City with id 5 wasn't found when accessing points of interest.
+2022-02-09 14:23:29.7397|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2022-02-09 14:23:29.7736|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2022-02-09 14:23:29.7736|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\lmccormick\Desktop\C#Playground\BuildingFirstAPIwithASP.NETCore\WebApplicationASP.NETCoreWebAPI\WebApplicationASP.NETCoreWebAPI
+2022-02-09 14:23:29.7736|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect.
+2022-02-09 14:23:36.8948|INFO|WebApplicationASP.NETCoreWebAPI.Controllers.PointsOfInterestController|City with id 5 wasn't found when accessing points of interest.
+2022-02-09 14:23:38.5455|INFO|WebApplicationASP.NETCoreWebAPI.Controllers.PointsOfInterestController|City with id 5 wasn't found when accessing points of interest.
+2022-02-09 14:23:48.3800|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2022-02-09 14:23:48.4027|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect.
+2022-02-09 14:23:48.4124|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2022-02-09 14:23:48.4124|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\lmccormick\Desktop\C#Playground\BuildingFirstAPIwithASP.NETCore\WebApplicationASP.NETCoreWebAPI\WebApplicationASP.NETCoreWebAPI
+2022-02-09 14:23:53.1589|INFO|WebApplicationASP.NETCoreWebAPI.Controllers.PointsOfInterestController|City with id 5 wasn't found when accessing points of interest.
+2022-02-09 14:23:54.1927|INFO|WebApplicationASP.NETCoreWebAPI.Controllers.PointsOfInterestController|City with id 5 wasn't found when accessing points of interest.
+2022-02-09 14:23:55.0405|INFO|WebApplicationASP.NETCoreWebAPI.Controllers.PointsOfInterestController|City with id 5 wasn't found when accessing points of interest.
+2022-02-09 14:25:03.9507|INFO|WebApplicationASP.NETCoreWebAPI.Controllers.PointsOfInterestController|City with id 5 wasn't found when accessing points of interest.
+2022-02-09 14:25:04.9573|INFO|WebApplicationASP.NETCoreWebAPI.Controllers.PointsOfInterestController|City with id 5 wasn't found when accessing points of interest.
+2022-02-09 14:31:27.9396|INFO|WebApplicationASP.NETCoreWebAPI.Program|Initializing application...
+2022-02-09 14:31:29.0503|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2022-02-09 14:31:29.0503|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2022-02-09 14:31:29.0503|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\lmccormick\Desktop\C#Playground\BuildingFirstAPIwithASP.NETCore\WebApplicationASP.NETCoreWebAPI\WebApplicationASP.NETCoreWebAPI
+2022-02-09 14:31:29.0847|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect.
+2022-02-09 14:50:01.6085|INFO|WebApplicationASP.NETCoreWebAPI.Program|Initializing application...
+2022-02-09 14:50:02.7806|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2022-02-09 14:50:02.7855|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2022-02-09 14:50:02.7855|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\lmccormick\Desktop\C#Playground\BuildingFirstAPIwithASP.NETCore\WebApplicationASP.NETCoreWebAPI\WebApplicationASP.NETCoreWebAPI
+2022-02-09 14:50:02.8156|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect.
+2022-02-09 14:51:26.7756|INFO|WebApplicationASP.NETCoreWebAPI.Program|Initializing application...
+2022-02-09 14:51:27.8922|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2022-02-09 14:51:27.8922|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2022-02-09 14:51:27.8922|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\lmccormick\Desktop\C#Playground\BuildingFirstAPIwithASP.NETCore\WebApplicationASP.NETCoreWebAPI\WebApplicationASP.NETCoreWebAPI
+2022-02-09 14:51:27.9210|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect.
+2022-02-09 15:03:56.6371|INFO|WebApplicationASP.NETCoreWebAPI.Program|Initializing application...
+2022-02-09 15:03:57.7873|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2022-02-09 15:03:57.7873|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2022-02-09 15:03:57.8003|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\lmccormick\Desktop\C#Playground\BuildingFirstAPIwithASP.NETCore\WebApplicationASP.NETCoreWebAPI\WebApplicationASP.NETCoreWebAPI
+2022-02-09 15:03:57.8262|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect.
+2022-02-09 15:27:54.6040|INFO|WebApplicationASP.NETCoreWebAPI.Program|Initializing application...
+2022-02-09 15:27:55.7679|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2022-02-09 15:27:55.7679|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2022-02-09 15:27:55.7815|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\lmccormick\Desktop\C#Playground\BuildingFirstAPIwithASP.NETCore\WebApplicationASP.NETCoreWebAPI\WebApplicationASP.NETCoreWebAPI
+2022-02-09 15:27:55.8086|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect.
+2022-02-09 15:32:46.2511|INFO|WebApplicationASP.NETCoreWebAPI.Program|Initializing application...
+2022-02-09 15:32:47.3702|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2022-02-09 15:32:47.3702|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2022-02-09 15:32:47.3790|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\lmccormick\Desktop\C#Playground\BuildingFirstAPIwithASP.NETCore\WebApplicationASP.NETCoreWebAPI\WebApplicationASP.NETCoreWebAPI
+2022-02-09 15:32:47.3985|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect.
+2022-02-09 15:33:42.2709|INFO|WebApplicationASP.NETCoreWebAPI.Program|Initializing application...
+2022-02-09 15:33:43.2762|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2022-02-09 15:33:43.2762|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2022-02-09 15:33:43.2954|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\lmccormick\Desktop\C#Playground\BuildingFirstAPIwithASP.NETCore\WebApplicationASP.NETCoreWebAPI\WebApplicationASP.NETCoreWebAPI
+2022-02-09 15:33:43.3238|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect.
+2022-02-09 15:36:37.6581|INFO|WebApplicationASP.NETCoreWebAPI.Program|Initializing application...
+2022-02-09 15:36:38.7124|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2022-02-09 15:36:38.7186|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2022-02-09 15:36:38.7186|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\lmccormick\Desktop\C#Playground\BuildingFirstAPIwithASP.NETCore\WebApplicationASP.NETCoreWebAPI\WebApplicationASP.NETCoreWebAPI
+2022-02-09 15:36:38.7614|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect.
+2022-02-09 15:37:28.6485|INFO|WebApplicationASP.NETCoreWebAPI.Program|Initializing application...
+2022-02-09 15:37:29.4463|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\lmccormick\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-02-09 15:37:29.7728|FATAL|Microsoft.AspNetCore.Hosting.Diagnostics|Application startup exception
+2022-02-09 15:37:29.8278|ERROR|WebApplicationASP.NETCoreWebAPI.Program|Application stopped because of exception.
+2022-02-09 15:38:34.0471|INFO|WebApplicationASP.NETCoreWebAPI.Program|Initializing application...
+2022-02-09 15:38:34.9535|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\lmccormick\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-02-09 15:38:35.2070|FATAL|Microsoft.AspNetCore.Hosting.Diagnostics|Application startup exception
+2022-02-09 15:38:35.2445|ERROR|WebApplicationASP.NETCoreWebAPI.Program|Application stopped because of exception.
+2022-02-09 15:40:20.1186|INFO|WebApplicationASP.NETCoreWebAPI.Program|Initializing application...
+2022-02-09 15:40:21.2323|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2022-02-09 15:40:21.2364|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2022-02-09 15:40:21.2364|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\lmccormick\Desktop\C#Playground\BuildingFirstAPIwithASP.NETCore\WebApplicationASP.NETCoreWebAPI\WebApplicationASP.NETCoreWebAPI
+2022-02-09 15:40:21.2612|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect.

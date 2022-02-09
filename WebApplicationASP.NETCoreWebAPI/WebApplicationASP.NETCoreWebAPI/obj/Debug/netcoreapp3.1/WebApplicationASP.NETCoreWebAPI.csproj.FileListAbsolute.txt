@@ -22,3 +22,8 @@ C:\Users\lmccormick\Desktop\C#Playground\BuildingFirstAPIwithASP.NETCore\WebAppl
 C:\Users\lmccormick\Desktop\C#Playground\BuildingFirstAPIwithASP.NETCore\WebApplicationASP.NETCoreWebAPI\WebApplicationASP.NETCoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\lmccormick\Desktop\C#Playground\BuildingFirstAPIwithASP.NETCore\WebApplicationASP.NETCoreWebAPI\WebApplicationASP.NETCoreWebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\lmccormick\Desktop\C#Playground\BuildingFirstAPIwithASP.NETCore\WebApplicationASP.NETCoreWebAPI\WebApplicationASP.NETCoreWebAPI\obj\Debug\netcoreapp3.1\WebApplicationASP.NETCoreWebAPI.csproj.CopyComplete
+C:\Users\lmccormick\Desktop\C#Playground\BuildingFirstAPIwithASP.NETCore\WebApplicationASP.NETCoreWebAPI\WebApplicationASP.NETCoreWebAPI\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\lmccormick\Desktop\C#Playground\BuildingFirstAPIwithASP.NETCore\WebApplicationASP.NETCoreWebAPI\WebApplicationASP.NETCoreWebAPI\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\lmccormick\Desktop\C#Playground\BuildingFirstAPIwithASP.NETCore\WebApplicationASP.NETCoreWebAPI\WebApplicationASP.NETCoreWebAPI\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\lmccormick\Desktop\C#Playground\BuildingFirstAPIwithASP.NETCore\WebApplicationASP.NETCoreWebAPI\WebApplicationASP.NETCoreWebAPI\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\lmccormick\Desktop\C#Playground\BuildingFirstAPIwithASP.NETCore\WebApplicationASP.NETCoreWebAPI\WebApplicationASP.NETCoreWebAPI\bin\Debug\netcoreapp3.1\appsettings.Production.json
