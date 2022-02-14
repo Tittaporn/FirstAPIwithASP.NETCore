@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using NLog.Web;
@@ -7,6 +8,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using WebApplicationASP.NETCoreWebAPI.Contexts;
 
 namespace WebApplicationASP.NETCoreWebAPI
 {
@@ -20,7 +22,23 @@ namespace WebApplicationASP.NETCoreWebAPI
             try
             {
                 logger.Info("Initializing application...");
-                CreateHostBuilder(args).Build().Run();
+               var host =  CreateHostBuilder(args).Build();
+                using (var scope = host.Services.CreateScope())
+                {
+                    try
+                    {
+                        var context = scope.ServiceProvider.GetService<CityInfoContext>();
+                        // for demo purposes, delete the database & migratr on startup so
+                        // we can start with clean slate
+                        context.Database.EnsureDeleted();
+                        context.Database.Migrate();
+                    }
+                    catch (Exception ex)
+                    {
+                        logger.Error(ex, "An error occurred while migration the database.");
+                    }
+                    // run the web app
+                    host.Run();
             }
             catch (Exception ex)
             {
