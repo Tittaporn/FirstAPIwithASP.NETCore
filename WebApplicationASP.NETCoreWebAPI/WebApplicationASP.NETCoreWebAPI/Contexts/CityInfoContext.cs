@@ -11,7 +11,7 @@ namespace WebApplicationASP.NETCoreWebAPI.Contexts
     public class CityInfoContext : DbContext
     {
         public DbSet<City> Cities { get; set; }
-        public DbSet<PointOfInterest> PointsOfInterest { get; set; }
+        public DbSet<PointOfInterestForCreationDto> PointsOfInterest { get; set; }
 
         public CityInfoContext(DbContextOptions<CityInfoContext> options)
                : base(options)
@@ -43,9 +43,9 @@ namespace WebApplicationASP.NETCoreWebAPI.Contexts
                 });
 
 
-            modelBuilder.Entity<PointOfInterest>()
+            modelBuilder.Entity<PointOfInterestForCreationDto>()
               .HasData(
-                new PointOfInterest()
+                new PointOfInterestForCreationDto()
                 {
                     Id = 1,
                     CityId = 1,
@@ -53,35 +53,35 @@ namespace WebApplicationASP.NETCoreWebAPI.Contexts
                     Description = "The most visited urban park in the United States."
 
                 },
-                new PointOfInterest()
+                new PointOfInterestForCreationDto()
                 {
                     Id = 2,
                     CityId = 1,
                     Name = "Empire State Building",
                     Description = "A 102-story skyscraper located in Midtown Manhattan."
                 },
-                  new PointOfInterest()
+                  new PointOfInterestForCreationDto()
                   {
                       Id = 3,
                       CityId = 2,
                       Name = "Cathedral",
                       Description = "A Gothic style cathedral, conceived by architects Jan and Pieter Appelmans."
                   },
-                new PointOfInterest()
+                new PointOfInterestForCreationDto()
                 {
                     Id = 4,
                     CityId = 2,
                     Name = "Antwerp Central Station",
                     Description = "The the finest example of railway architecture in Belgium."
                 },
-                new PointOfInterest()
+                new PointOfInterestForCreationDto()
                 {
                     Id = 5,
                     CityId = 3,
                     Name = "Eiffel Tower",
                     Description = "A wrought iron lattice tower on the Champ de Mars, named after engineer Gustave Eiffel."
                 },
-                new PointOfInterest()
+                new PointOfInterestForCreationDto()
                 {
                     Id = 6,
                     CityId = 3,

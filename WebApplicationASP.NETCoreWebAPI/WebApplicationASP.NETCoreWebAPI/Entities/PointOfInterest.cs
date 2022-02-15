@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace WebApplicationASP.NETCoreWebAPI.Entities
 {
-    public class PointOfInterest
+    public class PointOfInterestForCreationDto
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
@@ -18,5 +18,6 @@ namespace WebApplicationASP.NETCoreWebAPI.Entities
         [ForeignKey("CityId")]
         public City City { get; set; }
         public int CityId { get; set; }
+        public string Description { get; internal set; }
     }
 }
